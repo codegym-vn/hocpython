@@ -1,0 +1,17 @@
+[
+    {
+        "CustomerID": 101,
+        "CustomerName": "Alice",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": 102,
+        "CustomerName": "Bob",
+        "City": "HCM City"
+    },
+    {
+        "CustomerID": 103,
+        "CustomerName": "Charlie",
+        "City": "Danang"
+    }
+]
