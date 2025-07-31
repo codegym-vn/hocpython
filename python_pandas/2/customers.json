@@ -1,0 +1,257 @@
+[
+    {
+        "CustomerID": "C101",
+        "CustomerName": "Customer_0",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": "C102",
+        "CustomerName": "Customer_1",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": "C103",
+        "CustomerName": "Customer_2",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C104",
+        "CustomerName": "Customer_3",
+        "City": "HCM City"
+    },
+    {
+        "CustomerID": "C105",
+        "CustomerName": "Customer_4",
+        "City": "Cantho"
+    },
+    {
+        "CustomerID": "C106",
+        "CustomerName": "Customer_5",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C107",
+        "CustomerName": "Customer_6",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C108",
+        "CustomerName": "Customer_7",
+        "City": "Cantho"
+    },
+    {
+        "CustomerID": "C109",
+        "CustomerName": "Customer_8",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C110",
+        "CustomerName": "Customer_9",
+        "City": "Cantho"
+    },
+    {
+        "CustomerID": "C111",
+        "CustomerName": "Customer_10",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C112",
+        "CustomerName": "Customer_11",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C113",
+        "CustomerName": "Customer_12",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C114",
+        "CustomerName": "Customer_13",
+        "City": "Cantho"
+    },
+    {
+        "CustomerID": "C115",
+        "CustomerName": "Customer_14",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C116",
+        "CustomerName": "Customer_15",
+        "City": "HCM City"
+    },
+    {
+        "CustomerID": "C117",
+        "CustomerName": "Customer_16",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C118",
+        "CustomerName": "Customer_17",
+        "City": "HCM City"
+    },
+    {
+        "CustomerID": "C119",
+        "CustomerName": "Customer_18",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": "C120",
+        "CustomerName": "Customer_19",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C121",
+        "CustomerName": "Customer_20",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C122",
+        "CustomerName": "Customer_21",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C123",
+        "CustomerName": "Customer_22",
+        "City": "HCM City"
+    },
+    {
+        "CustomerID": "C124",
+        "CustomerName": "Customer_23",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C125",
+        "CustomerName": "Customer_24",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C126",
+        "CustomerName": "Customer_25",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C127",
+        "CustomerName": "Customer_26",
+        "City": "Cantho"
+    },
+    {
+        "CustomerID": "C128",
+        "CustomerName": "Customer_27",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C129",
+        "CustomerName": "Customer_28",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C130",
+        "CustomerName": "Customer_29",
+        "City": "Cantho"
+    },
+    {
+        "CustomerID": "C131",
+        "CustomerName": "Customer_30",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": "C132",
+        "CustomerName": "Customer_31",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C133",
+        "CustomerName": "Customer_32",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C134",
+        "CustomerName": "Customer_33",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C135",
+        "CustomerName": "Customer_34",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": "C136",
+        "CustomerName": "Customer_35",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C137",
+        "CustomerName": "Customer_36",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": "C138",
+        "CustomerName": "Customer_37",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": "C139",
+        "CustomerName": "Customer_38",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C140",
+        "CustomerName": "Customer_39",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C141",
+        "CustomerName": "Customer_40",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C142",
+        "CustomerName": "Customer_41",
+        "City": "Cantho"
+    },
+    {
+        "CustomerID": "C143",
+        "CustomerName": "Customer_42",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": "C144",
+        "CustomerName": "Customer_43",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C145",
+        "CustomerName": "Customer_44",
+        "City": "Cantho"
+    },
+    {
+        "CustomerID": "C146",
+        "CustomerName": "Customer_45",
+        "City": "Cantho"
+    },
+    {
+        "CustomerID": "C147",
+        "CustomerName": "Customer_46",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": "C148",
+        "CustomerName": "Customer_47",
+        "City": "Danang"
+    },
+    {
+        "CustomerID": "C149",
+        "CustomerName": "Customer_48",
+        "City": "Haiphong"
+    },
+    {
+        "CustomerID": "C150",
+        "CustomerName": "Customer_49",
+        "City": "Hanoi"
+    },
+    {
+        "CustomerID": "C151",
+        "CustomerName": "Inactive Customer",
+        "City": "Hanoi"
+    }
+]
