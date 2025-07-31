@@ -1,0 +1,501 @@
+OrderID,CustomerID,Region,Category,Product,Quantity,UnitPrice
+ORD2001,CUST1072,North,Home Goods,Coffee Maker,5,77.47
+ORD2002,CUST1075,East,Home Goods,Desk Lamp,5,38.62
+ORD2003,CUST1002,West,Clothing,Jacket,4,85.69
+ORD2004,CUST1060,North,Books,Science Journal,1,23.75
+ORD2005,CUST1089,North,Clothing,Jeans,3,60.15
+ORD2006,CUST1092,West,Home Goods,Pillows,3,28.92
+ORD2007,CUST1003,North,Clothing,Jacket,3,94.35
+ORD2008,CUST1018,West,Home Goods,Coffee Maker,1,79.6
+ORD2009,CUST1009,South,Clothing,Jeans,5,61.85
+ORD2010,CUST1044,North,Books,Cookbook,3,20.37
+ORD2011,CUST1004,South,Books,Fiction Novel,2,14.64
+ORD2012,CUST1018,South,Clothing,Jeans,4,57.19
+ORD2013,CUST1014,East,Books,Science Journal,4,25.99
+ORD2014,CUST1080,North,Electronics,Smartphone,2,786.03
+ORD2015,CUST1089,West,Home Goods,Coffee Maker,4,80.69
+ORD2016,CUST1015,North,Clothing,T-Shirt,1,21.21
+ORD2017,CUST1001,West,Electronics,Headphones,3,148.85
+ORD2018,CUST1035,North,Home Goods,Coffee Maker,3,81.69
+ORD2019,CUST1041,West,Electronics,Smartphone,1,788.68
+ORD2020,CUST1023,South,Clothing,Jeans,5,57.57
+ORD2021,CUST1065,East,Home Goods,Desk Lamp,5,41.55
+ORD2022,CUST1005,South,Home Goods,Desk Lamp,3,41.4
+ORD2023,CUST1042,West,Electronics,Headphones,5,148.91
+ORD2024,CUST1052,North,Home Goods,Pillows,4,31.19
+ORD2025,CUST1015,East,Books,Fiction Novel,5,14.62
+ORD2026,CUST1059,East,Clothing,T-Shirt,4,21.07
+ORD2027,CUST1057,North,Books,Science Journal,4,25.77
+ORD2028,CUST1092,North,Clothing,Jeans,1,62.3
+ORD2029,CUST1077,North,Electronics,Laptop,3,1217.72
+ORD2030,CUST1009,South,Home Goods,Desk Lamp,5,40.04
+ORD2031,CUST1024,East,Electronics,Headphones,3,146.54
+ORD2032,CUST1062,North,Books,Fiction Novel,2,14.86
+ORD2033,CUST1003,North,Clothing,Jeans,5,61.18
+ORD2034,CUST1002,South,Electronics,Monitor,4,286.11
+ORD2035,CUST1097,North,Books,Cookbook,3,19.56
+ORD2036,CUST1090,West,Books,Science Journal,4,25.08
+ORD2037,CUST1017,East,Home Goods,Pillows,5,29.61
+ORD2038,CUST1011,East,Clothing,Jeans,1,60.8
+ORD2039,CUST1080,North,Electronics,Monitor,3,300.25
+ORD2040,CUST1090,East,Clothing,Jacket,3,87.48
+ORD2041,CUST1033,West,Clothing,Jacket,2,87.07
+ORD2042,CUST1057,North,Clothing,T-Shirt,2,22.39
+ORD2043,CUST1099,East,Home Goods,Pillows,4,31.13
+ORD2044,CUST1060,North,Clothing,Jeans,2,62.89
+ORD2045,CUST1069,North,Electronics,Monitor,3,313.96
+ORD2046,CUST1019,West,Home Goods,Coffee Maker,3,78.23
+ORD2047,CUST1024,West,Clothing,Jeans,3,61.68
+ORD2048,CUST1084,South,Electronics,Monitor,3,308.56
+ORD2049,CUST1025,North,Clothing,Jeans,2,62.64
+ORD2050,CUST1054,East,Clothing,Jeans,5,60.29
+ORD2051,CUST1033,South,Electronics,Monitor,5,306.37
+ORD2052,CUST1033,West,Clothing,Jacket,4,91.99
+ORD2053,CUST1022,South,Home Goods,Pillows,5,30.41
+ORD2054,CUST1027,South,Home Goods,Desk Lamp,5,41.62
+ORD2055,CUST1064,North,Books,Fiction Novel,5,15.12
+ORD2056,CUST1004,East,Clothing,T-Shirt,1,22.0
+ORD2057,CUST1030,North,Clothing,T-Shirt,5,23.09
+ORD2058,CUST1037,West,Books,Cookbook,5,20.5
+ORD2059,CUST1099,West,Electronics,Smartphone,1,837.33
+ORD2060,CUST1032,East,Clothing,Jacket,1,88.25
+ORD2061,CUST1025,South,Clothing,Jacket,2,87.03
+ORD2062,CUST1032,East,Home Goods,Desk Lamp,2,38.39
+ORD2063,CUST1090,North,Home Goods,Pillows,1,29.39
+ORD2064,CUST1039,North,Electronics,Headphones,2,153.13
+ORD2065,CUST1025,West,Home Goods,Desk Lamp,5,41.24
+ORD2066,CUST1036,North,Clothing,Jeans,4,57.03
+ORD2067,CUST1016,South,Electronics,Monitor,4,306.06
+ORD2068,CUST1098,South,Home Goods,Pillows,3,28.58
+ORD2069,CUST1022,South,Electronics,Smartphone,2,803.41
+ORD2070,CUST1070,East,Books,Fiction Novel,3,14.31
+ORD2071,CUST1053,West,Clothing,T-Shirt,4,22.05
+ORD2072,CUST1006,North,Clothing,T-Shirt,4,21.91
+ORD2073,CUST1040,West,Books,Cookbook,5,20.4
+ORD2074,CUST1017,West,Books,Science Journal,3,24.56
+ORD2075,CUST1090,North,Clothing,Jeans,1,57.47
+ORD2076,CUST1001,East,Clothing,T-Shirt,2,21.03
+ORD2077,CUST1089,West,Clothing,Jeans,5,57.56
+ORD2078,CUST1064,East,Electronics,Laptop,5,1254.58
+ORD2079,CUST1076,South,Books,Fiction Novel,3,14.88
+ORD2080,CUST1078,West,Electronics,Smartphone,5,761.15
+ORD2081,CUST1062,West,Home Goods,Coffee Maker,5,78.49
+ORD2082,CUST1085,East,Clothing,Jeans,4,61.58
+ORD2083,CUST1023,South,Electronics,Smartphone,2,794.71
+ORD2084,CUST1052,East,Books,Fiction Novel,2,15.58
+ORD2085,CUST1001,West,Books,Cookbook,5,20.01
+ORD2086,CUST1080,East,Electronics,Monitor,2,303.48
+ORD2087,CUST1091,West,Electronics,Monitor,4,302.57
+ORD2088,CUST1033,North,Books,Cookbook,3,20.29
+ORD2089,CUST1065,North,Home Goods,Coffee Maker,2,81.01
+ORD2090,CUST1095,South,Home Goods,Coffee Maker,2,76.55
+ORD2091,CUST1087,North,Electronics,Headphones,2,151.77
+ORD2092,CUST1090,South,Clothing,T-Shirt,2,22.76
+ORD2093,CUST1058,North,Home Goods,Coffee Maker,2,79.97
+ORD2094,CUST1036,North,Electronics,Headphones,5,155.66
+ORD2095,CUST1073,West,Electronics,Laptop,3,1205.76
+ORD2096,CUST1082,North,Electronics,Headphones,5,148.69
+ORD2097,CUST1023,North,Clothing,T-Shirt,3,22.4
+ORD2098,CUST1062,West,Electronics,Smartphone,1,832.2
+ORD2099,CUST1049,West,Books,Fiction Novel,4,15.59
+ORD2100,CUST1009,East,Electronics,Laptop,4,1241.66
+ORD2101,CUST1083,South,Books,Cookbook,5,20.9
+ORD2102,CUST1052,East,Electronics,Headphones,5,151.54
+ORD2103,CUST1057,East,Clothing,T-Shirt,5,22.64
+ORD2104,CUST1014,East,Electronics,Smartphone,2,837.94
+ORD2105,CUST1075,South,Electronics,Headphones,4,155.82
+ORD2106,CUST1017,North,Electronics,Smartphone,5,826.96
+ORD2107,CUST1027,South,Clothing,Jeans,2,59.38
+ORD2108,CUST1083,West,Electronics,Laptop,5,1150.18
+ORD2109,CUST1071,North,Electronics,Smartphone,5,825.02
+ORD2110,CUST1019,North,Clothing,Jeans,4,61.25
+ORD2111,CUST1090,East,Books,Cookbook,3,19.85
+ORD2112,CUST1058,West,Electronics,Laptop,4,1188.62
+ORD2113,CUST1039,North,Clothing,T-Shirt,3,22.71
+ORD2114,CUST1063,West,Electronics,Monitor,1,313.87
+ORD2115,CUST1006,South,Electronics,Monitor,4,300.85
+ORD2116,CUST1047,North,Electronics,Monitor,5,301.68
+ORD2117,CUST1019,West,Home Goods,Coffee Maker,1,78.02
+ORD2118,CUST1014,East,Books,Cookbook,1,20.26
+ORD2119,CUST1016,East,Electronics,Smartphone,1,806.75
+ORD2120,CUST1072,South,Home Goods,Desk Lamp,4,41.8
+ORD2121,CUST1092,West,Clothing,T-Shirt,2,21.51
+ORD2122,CUST1028,West,Clothing,Jeans,5,58.38
+ORD2123,CUST1063,North,Electronics,Monitor,1,314.59
+ORD2124,CUST1092,West,Electronics,Laptop,5,1237.66
+ORD2125,CUST1006,South,Electronics,Smartphone,3,766.1
+ORD2126,CUST1066,South,Clothing,T-Shirt,2,22.25
+ORD2127,CUST1033,South,Home Goods,Coffee Maker,1,77.32
+ORD2128,CUST1085,South,Books,Cookbook,1,19.3
+ORD2129,CUST1077,North,Books,Cookbook,2,20.68
+ORD2130,CUST1021,West,Electronics,Headphones,4,144.51
+ORD2131,CUST1003,North,Electronics,Laptop,5,1259.97
+ORD2132,CUST1083,North,Electronics,Laptop,5,1230.85
+ORD2133,CUST1051,North,Books,Fiction Novel,5,14.44
+ORD2134,CUST1032,South,Clothing,Jeans,4,62.27
+ORD2135,CUST1034,South,Home Goods,Pillows,3,30.51
+ORD2136,CUST1054,West,Home Goods,Desk Lamp,5,41.41
+ORD2137,CUST1017,West,Books,Science Journal,5,25.73
+ORD2138,CUST1051,East,Electronics,Smartphone,4,816.33
+ORD2139,CUST1082,South,Books,Science Journal,3,25.27
+ORD2140,CUST1038,North,Home Goods,Pillows,4,30.68
+ORD2141,CUST1081,North,Books,Cookbook,5,20.05
+ORD2142,CUST1074,North,Clothing,Jeans,4,62.56
+ORD2143,CUST1053,South,Clothing,T-Shirt,5,23.06
+ORD2144,CUST1075,East,Books,Cookbook,1,20.16
+ORD2145,CUST1075,South,Home Goods,Pillows,4,30.25
+ORD2146,CUST1067,East,Clothing,T-Shirt,5,22.87
+ORD2147,CUST1051,East,Clothing,Jeans,5,60.61
+ORD2148,CUST1061,South,Electronics,Smartphone,5,782.29
+ORD2149,CUST1012,South,Books,Fiction Novel,2,15.05
+ORD2150,CUST1027,North,Electronics,Smartphone,2,786.41
+ORD2151,CUST1056,South,Electronics,Headphones,3,151.92
+ORD2152,CUST1036,North,Home Goods,Coffee Maker,1,76.02
+ORD2153,CUST1047,East,Home Goods,Coffee Maker,2,83.89
+ORD2154,CUST1002,North,Clothing,Jacket,2,90.28
+ORD2155,CUST1007,East,Books,Cookbook,3,19.5
+ORD2156,CUST1038,East,Home Goods,Coffee Maker,3,82.94
+ORD2157,CUST1028,South,Home Goods,Coffee Maker,1,81.9
+ORD2158,CUST1044,North,Electronics,Headphones,1,143.84
+ORD2159,CUST1010,East,Electronics,Monitor,1,299.22
+ORD2160,CUST1086,South,Electronics,Smartphone,1,766.95
+ORD2161,CUST1006,West,Clothing,Jacket,2,88.91
+ORD2162,CUST1059,North,Clothing,Jeans,5,58.47
+ORD2163,CUST1021,South,Electronics,Laptop,4,1140.9
+ORD2164,CUST1094,East,Books,Cookbook,1,19.18
+ORD2165,CUST1040,North,Home Goods,Pillows,4,30.07
+ORD2166,CUST1084,West,Clothing,Jacket,3,93.57
+ORD2167,CUST1094,West,Clothing,Jacket,3,92.85
+ORD2168,CUST1075,West,Books,Fiction Novel,2,15.33
+ORD2169,CUST1070,South,Home Goods,Coffee Maker,4,82.16
+ORD2170,CUST1012,East,Home Goods,Coffee Maker,1,81.89
+ORD2171,CUST1037,South,Books,Science Journal,3,24.47
+ORD2172,CUST1033,South,Home Goods,Coffee Maker,2,80.26
+ORD2173,CUST1010,West,Clothing,Jeans,2,60.29
+ORD2174,CUST1065,East,Electronics,Monitor,5,309.3
+ORD2175,CUST1015,West,Electronics,Laptop,3,1154.0
+ORD2176,CUST1062,West,Books,Cookbook,4,20.86
+ORD2177,CUST1075,North,Books,Science Journal,2,26.08
+ORD2178,CUST1040,West,Clothing,Jacket,4,86.1
+ORD2179,CUST1014,West,Clothing,T-Shirt,3,21.21
+ORD2180,CUST1078,South,Electronics,Laptop,4,1237.75
+ORD2181,CUST1018,West,Electronics,Laptop,3,1210.6
+ORD2182,CUST1063,East,Electronics,Smartphone,1,803.18
+ORD2183,CUST1066,South,Electronics,Laptop,5,1247.95
+ORD2184,CUST1070,South,Clothing,Jacket,3,90.39
+ORD2185,CUST1064,West,Home Goods,Pillows,5,29.5
+ORD2186,CUST1027,West,Electronics,Monitor,5,307.24
+ORD2187,CUST1027,East,Books,Fiction Novel,1,14.72
+ORD2188,CUST1005,East,Books,Science Journal,2,25.54
+ORD2189,CUST1031,East,Electronics,Smartphone,4,825.7
+ORD2190,CUST1015,North,Electronics,Monitor,5,303.12
+ORD2191,CUST1045,South,Electronics,Headphones,3,148.63
+ORD2192,CUST1036,South,Home Goods,Pillows,3,30.58
+ORD2193,CUST1074,West,Home Goods,Coffee Maker,2,82.61
+ORD2194,CUST1013,West,Books,Cookbook,2,19.31
+ORD2195,CUST1060,East,Electronics,Laptop,4,1142.17
+ORD2196,CUST1072,East,Clothing,T-Shirt,2,22.93
+ORD2197,CUST1009,South,Electronics,Monitor,3,296.23
+ORD2198,CUST1086,East,Electronics,Smartphone,1,834.75
+ORD2199,CUST1036,South,Books,Fiction Novel,1,15.73
+ORD2200,CUST1040,East,Electronics,Headphones,5,147.17
+ORD2201,CUST1074,West,Home Goods,Coffee Maker,1,81.95
+ORD2202,CUST1063,West,Electronics,Smartphone,1,786.68
+ORD2203,CUST1007,South,Books,Cookbook,3,20.85
+ORD2204,CUST1043,East,Books,Cookbook,4,19.9
+ORD2205,CUST1025,East,Home Goods,Pillows,4,29.24
+ORD2206,CUST1049,North,Books,Fiction Novel,3,15.62
+ORD2207,CUST1085,North,Books,Science Journal,1,23.78
+ORD2208,CUST1086,West,Clothing,T-Shirt,5,21.23
+ORD2209,CUST1096,North,Clothing,T-Shirt,3,21.56
+ORD2210,CUST1030,North,Home Goods,Pillows,1,29.55
+ORD2211,CUST1040,East,Electronics,Laptop,2,1196.65
+ORD2212,CUST1066,South,Electronics,Smartphone,4,817.12
+ORD2213,CUST1051,East,Electronics,Smartphone,4,799.76
+ORD2214,CUST1003,West,Electronics,Monitor,2,310.85
+ORD2215,CUST1097,East,Books,Cookbook,4,20.29
+ORD2216,CUST1008,North,Clothing,Jeans,1,62.2
+ORD2217,CUST1059,East,Home Goods,Pillows,5,29.19
+ORD2218,CUST1067,East,Clothing,Jeans,1,59.04
+ORD2219,CUST1035,West,Clothing,Jacket,3,91.99
+ORD2220,CUST1014,East,Clothing,T-Shirt,2,21.21
+ORD2221,CUST1023,North,Home Goods,Desk Lamp,3,38.34
+ORD2222,CUST1029,West,Clothing,T-Shirt,2,22.83
+ORD2223,CUST1020,East,Books,Fiction Novel,2,15.48
+ORD2224,CUST1012,West,Home Goods,Desk Lamp,5,39.45
+ORD2225,CUST1009,South,Electronics,Smartphone,5,821.91
+ORD2226,CUST1086,West,Clothing,Jacket,1,94.04
+ORD2227,CUST1087,West,Books,Science Journal,1,24.97
+ORD2228,CUST1009,West,Books,Cookbook,2,20.02
+ORD2229,CUST1022,East,Electronics,Laptop,4,1170.95
+ORD2230,CUST1098,East,Books,Science Journal,5,26.0
+ORD2231,CUST1085,South,Home Goods,Desk Lamp,4,41.66
+ORD2232,CUST1037,North,Electronics,Smartphone,2,765.37
+ORD2233,CUST1086,North,Clothing,Jacket,3,86.46
+ORD2234,CUST1040,South,Electronics,Headphones,4,155.61
+ORD2235,CUST1010,North,Electronics,Laptop,1,1199.31
+ORD2236,CUST1046,West,Books,Fiction Novel,2,14.82
+ORD2237,CUST1051,North,Clothing,Jeans,4,61.43
+ORD2238,CUST1011,West,Home Goods,Desk Lamp,3,38.27
+ORD2239,CUST1099,South,Clothing,T-Shirt,2,22.49
+ORD2240,CUST1022,North,Home Goods,Pillows,1,31.36
+ORD2241,CUST1099,West,Books,Cookbook,3,19.52
+ORD2242,CUST1098,North,Electronics,Smartphone,2,836.42
+ORD2243,CUST1040,North,Books,Fiction Novel,1,14.77
+ORD2244,CUST1042,North,Electronics,Laptop,3,1222.61
+ORD2245,CUST1044,East,Home Goods,Desk Lamp,2,41.2
+ORD2246,CUST1059,East,Clothing,Jacket,1,88.33
+ORD2247,CUST1055,North,Electronics,Laptop,4,1254.03
+ORD2248,CUST1021,North,Books,Cookbook,5,20.46
+ORD2249,CUST1082,North,Books,Science Journal,4,26.2
+ORD2250,CUST1026,East,Home Goods,Pillows,2,31.46
+ORD2251,CUST1026,North,Clothing,Jacket,2,94.49
+ORD2252,CUST1007,North,Home Goods,Desk Lamp,3,38.48
+ORD2253,CUST1093,South,Clothing,Jeans,4,59.53
+ORD2254,CUST1017,South,Home Goods,Pillows,3,29.46
+ORD2255,CUST1037,East,Clothing,T-Shirt,2,21.07
+ORD2256,CUST1015,West,Home Goods,Pillows,1,28.7
+ORD2257,CUST1013,South,Clothing,T-Shirt,1,22.36
+ORD2258,CUST1066,East,Clothing,T-Shirt,3,22.25
+ORD2259,CUST1013,North,Books,Science Journal,2,23.8
+ORD2260,CUST1046,West,Clothing,Jacket,5,86.13
+ORD2261,CUST1057,West,Books,Fiction Novel,4,14.85
+ORD2262,CUST1025,East,Home Goods,Coffee Maker,4,82.15
+ORD2263,CUST1003,North,Electronics,Laptop,2,1168.65
+ORD2264,CUST1025,West,Clothing,Jeans,1,58.4
+ORD2265,CUST1015,North,Electronics,Smartphone,1,763.61
+ORD2266,CUST1061,North,Clothing,Jacket,3,94.05
+ORD2267,CUST1063,South,Clothing,Jeans,3,62.89
+ORD2268,CUST1071,West,Books,Fiction Novel,4,15.73
+ORD2269,CUST1074,East,Home Goods,Coffee Maker,2,81.2
+ORD2270,CUST1003,West,Electronics,Smartphone,5,762.94
+ORD2271,CUST1049,North,Electronics,Smartphone,3,837.53
+ORD2272,CUST1035,South,Clothing,Jeans,2,60.15
+ORD2273,CUST1032,East,Books,Fiction Novel,5,14.48
+ORD2274,CUST1073,West,Clothing,T-Shirt,5,22.08
+ORD2275,CUST1067,East,Books,Cookbook,4,20.75
+ORD2276,CUST1098,West,Electronics,Laptop,2,1145.33
+ORD2277,CUST1005,East,Electronics,Headphones,3,152.33
+ORD2278,CUST1005,West,Books,Cookbook,2,19.01
+ORD2279,CUST1048,North,Books,Science Journal,4,26.16
+ORD2280,CUST1040,North,Electronics,Laptop,5,1242.14
+ORD2281,CUST1040,South,Home Goods,Desk Lamp,3,40.29
+ORD2282,CUST1088,East,Electronics,Laptop,4,1228.07
+ORD2283,CUST1041,North,Electronics,Headphones,3,155.51
+ORD2284,CUST1100,East,Electronics,Laptop,3,1251.61
+ORD2285,CUST1045,South,Books,Cookbook,1,20.76
+ORD2286,CUST1010,West,Home Goods,Pillows,3,30.98
+ORD2287,CUST1082,West,Electronics,Smartphone,2,832.7
+ORD2288,CUST1039,South,Books,Fiction Novel,5,15.01
+ORD2289,CUST1017,West,Books,Cookbook,2,20.96
+ORD2290,CUST1070,East,Clothing,T-Shirt,2,22.62
+ORD2291,CUST1028,West,Electronics,Monitor,5,310.2
+ORD2292,CUST1096,West,Electronics,Smartphone,2,834.98
+ORD2293,CUST1012,South,Clothing,Jacket,1,87.0
+ORD2294,CUST1090,West,Books,Science Journal,3,24.61
+ORD2295,CUST1047,North,Books,Science Journal,4,26.23
+ORD2296,CUST1076,East,Clothing,Jacket,5,86.67
+ORD2297,CUST1079,West,Home Goods,Coffee Maker,3,78.59
+ORD2298,CUST1098,South,Home Goods,Desk Lamp,2,38.0
+ORD2299,CUST1013,North,Electronics,Monitor,5,297.79
+ORD2300,CUST1002,East,Electronics,Headphones,4,145.81
+ORD2301,CUST1081,South,Books,Cookbook,4,19.55
+ORD2302,CUST1080,North,Clothing,T-Shirt,3,22.98
+ORD2303,CUST1069,East,Clothing,Jeans,3,61.56
+ORD2304,CUST1015,South,Electronics,Smartphone,5,831.53
+ORD2305,CUST1012,South,Home Goods,Coffee Maker,4,81.21
+ORD2306,CUST1046,North,Clothing,Jacket,1,94.21
+ORD2307,CUST1027,South,Electronics,Laptop,2,1158.44
+ORD2308,CUST1064,West,Clothing,Jacket,5,91.14
+ORD2309,CUST1046,East,Clothing,Jeans,1,60.7
+ORD2310,CUST1084,West,Books,Science Journal,1,25.25
+ORD2311,CUST1086,South,Books,Fiction Novel,5,14.49
+ORD2312,CUST1011,West,Electronics,Smartphone,5,823.8
+ORD2313,CUST1094,West,Electronics,Monitor,2,298.94
+ORD2314,CUST1032,East,Books,Cookbook,5,20.2
+ORD2315,CUST1041,West,Electronics,Laptop,3,1254.32
+ORD2316,CUST1017,West,Books,Cookbook,1,19.21
+ORD2317,CUST1086,West,Books,Cookbook,4,20.0
+ORD2318,CUST1097,South,Electronics,Smartphone,1,822.06
+ORD2319,CUST1033,North,Electronics,Laptop,4,1182.08
+ORD2320,CUST1038,East,Books,Science Journal,2,24.56
+ORD2321,CUST1098,South,Books,Science Journal,4,25.75
+ORD2322,CUST1067,East,Electronics,Monitor,1,304.09
+ORD2323,CUST1032,North,Books,Fiction Novel,2,14.33
+ORD2324,CUST1084,South,Clothing,Jeans,3,60.75
+ORD2325,CUST1080,West,Home Goods,Pillows,2,30.48
+ORD2326,CUST1041,West,Books,Science Journal,2,24.95
+ORD2327,CUST1012,East,Books,Cookbook,4,20.45
+ORD2328,CUST1019,East,Electronics,Laptop,4,1244.61
+ORD2329,CUST1053,East,Electronics,Monitor,3,311.15
+ORD2330,CUST1083,South,Clothing,Jeans,5,57.13
+ORD2331,CUST1028,South,Clothing,T-Shirt,3,21.99
+ORD2332,CUST1063,East,Home Goods,Coffee Maker,1,76.58
+ORD2333,CUST1031,South,Home Goods,Coffee Maker,5,82.95
+ORD2334,CUST1020,West,Clothing,T-Shirt,2,21.66
+ORD2335,CUST1036,South,Electronics,Headphones,5,151.18
+ORD2336,CUST1036,South,Books,Science Journal,2,25.24
+ORD2337,CUST1012,East,Home Goods,Pillows,5,29.35
+ORD2338,CUST1099,South,Books,Fiction Novel,4,15.35
+ORD2339,CUST1044,South,Clothing,Jeans,2,58.08
+ORD2340,CUST1041,South,Home Goods,Coffee Maker,4,82.84
+ORD2341,CUST1089,West,Electronics,Headphones,2,151.39
+ORD2342,CUST1089,North,Home Goods,Desk Lamp,4,40.61
+ORD2343,CUST1065,West,Books,Cookbook,4,20.31
+ORD2344,CUST1031,East,Clothing,T-Shirt,2,21.42
+ORD2345,CUST1074,North,Home Goods,Desk Lamp,2,38.68
+ORD2346,CUST1005,West,Clothing,Jeans,3,57.87
+ORD2347,CUST1084,West,Clothing,T-Shirt,1,21.46
+ORD2348,CUST1076,North,Home Goods,Coffee Maker,1,78.85
+ORD2349,CUST1028,East,Electronics,Monitor,4,309.17
+ORD2350,CUST1078,South,Home Goods,Coffee Maker,1,76.27
+ORD2351,CUST1029,North,Home Goods,Coffee Maker,3,83.49
+ORD2352,CUST1069,North,Books,Fiction Novel,1,15.65
+ORD2353,CUST1020,North,Home Goods,Desk Lamp,2,40.75
+ORD2354,CUST1098,North,Clothing,Jacket,2,85.54
+ORD2355,CUST1056,East,Electronics,Laptop,3,1209.61
+ORD2356,CUST1084,East,Books,Cookbook,5,20.33
+ORD2357,CUST1008,South,Clothing,Jeans,5,58.21
+ORD2358,CUST1096,South,Electronics,Headphones,5,152.59
+ORD2359,CUST1065,East,Home Goods,Desk Lamp,2,39.02
+ORD2360,CUST1082,North,Home Goods,Desk Lamp,2,38.07
+ORD2361,CUST1076,East,Clothing,Jacket,1,90.64
+ORD2362,CUST1031,West,Books,Fiction Novel,5,15.15
+ORD2363,CUST1062,West,Clothing,T-Shirt,2,22.17
+ORD2364,CUST1033,North,Books,Science Journal,1,24.55
+ORD2365,CUST1077,East,Clothing,T-Shirt,1,22.62
+ORD2366,CUST1004,South,Home Goods,Desk Lamp,3,39.62
+ORD2367,CUST1023,East,Books,Science Journal,5,25.66
+ORD2368,CUST1054,East,Home Goods,Coffee Maker,1,76.96
+ORD2369,CUST1071,East,Electronics,Headphones,5,151.95
+ORD2370,CUST1049,West,Home Goods,Coffee Maker,1,79.59
+ORD2371,CUST1099,West,Home Goods,Desk Lamp,2,38.29
+ORD2372,CUST1085,South,Books,Science Journal,2,25.0
+ORD2373,CUST1025,West,Books,Fiction Novel,5,15.47
+ORD2374,CUST1100,East,Books,Fiction Novel,3,14.62
+ORD2375,CUST1043,North,Clothing,Jacket,5,92.82
+ORD2376,CUST1047,North,Home Goods,Pillows,4,28.52
+ORD2377,CUST1051,East,Home Goods,Coffee Maker,4,81.24
+ORD2378,CUST1034,South,Electronics,Laptop,5,1182.19
+ORD2379,CUST1027,North,Clothing,T-Shirt,4,21.53
+ORD2380,CUST1018,South,Home Goods,Desk Lamp,1,40.44
+ORD2381,CUST1094,East,Electronics,Monitor,4,309.7
+ORD2382,CUST1071,East,Books,Cookbook,1,20.05
+ORD2383,CUST1036,West,Books,Fiction Novel,4,14.63
+ORD2384,CUST1044,West,Books,Cookbook,5,20.63
+ORD2385,CUST1022,South,Books,Cookbook,5,20.9
+ORD2386,CUST1015,South,Books,Fiction Novel,2,15.44
+ORD2387,CUST1024,West,Electronics,Laptop,1,1248.71
+ORD2388,CUST1050,West,Books,Cookbook,3,20.56
+ORD2389,CUST1018,East,Clothing,Jacket,4,91.51
+ORD2390,CUST1069,East,Books,Fiction Novel,1,14.89
+ORD2391,CUST1021,North,Home Goods,Desk Lamp,5,39.89
+ORD2392,CUST1032,East,Home Goods,Pillows,2,30.32
+ORD2393,CUST1057,South,Electronics,Smartphone,1,810.56
+ORD2394,CUST1018,East,Books,Cookbook,2,20.19
+ORD2395,CUST1075,East,Books,Fiction Novel,4,15.33
+ORD2396,CUST1042,West,Books,Cookbook,5,20.21
+ORD2397,CUST1003,North,Books,Fiction Novel,1,15.59
+ORD2398,CUST1068,North,Home Goods,Desk Lamp,1,39.42
+ORD2399,CUST1044,East,Clothing,Jeans,5,61.02
+ORD2400,CUST1067,South,Clothing,Jeans,4,60.56
+ORD2401,CUST1070,South,Electronics,Smartphone,4,786.64
+ORD2402,CUST1098,East,Books,Science Journal,4,25.14
+ORD2403,CUST1036,North,Clothing,Jeans,5,60.37
+ORD2404,CUST1055,West,Electronics,Headphones,2,153.82
+ORD2405,CUST1016,West,Books,Science Journal,1,24.88
+ORD2406,CUST1023,West,Clothing,Jacket,3,93.84
+ORD2407,CUST1065,North,Clothing,Jeans,5,62.95
+ORD2408,CUST1072,East,Clothing,Jeans,1,58.54
+ORD2409,CUST1098,North,Electronics,Monitor,4,300.21
+ORD2410,CUST1066,North,Electronics,Headphones,5,146.45
+ORD2411,CUST1065,East,Books,Cookbook,3,19.48
+ORD2412,CUST1068,South,Clothing,Jeans,3,59.68
+ORD2413,CUST1060,North,Books,Cookbook,4,20.15
+ORD2414,CUST1038,South,Books,Cookbook,5,19.79
+ORD2415,CUST1030,South,Home Goods,Desk Lamp,3,41.51
+ORD2416,CUST1073,East,Clothing,Jacket,5,88.24
+ORD2417,CUST1035,South,Home Goods,Desk Lamp,4,38.62
+ORD2418,CUST1025,North,Books,Science Journal,1,25.81
+ORD2419,CUST1080,South,Clothing,Jacket,5,89.88
+ORD2420,CUST1006,North,Clothing,Jacket,5,94.08
+ORD2421,CUST1098,West,Electronics,Smartphone,1,765.45
+ORD2422,CUST1032,West,Home Goods,Coffee Maker,4,80.4
+ORD2423,CUST1018,North,Electronics,Headphones,4,150.09
+ORD2424,CUST1043,South,Home Goods,Desk Lamp,2,38.0
+ORD2425,CUST1005,East,Clothing,Jacket,2,86.87
+ORD2426,CUST1011,South,Books,Fiction Novel,5,14.34
+ORD2427,CUST1083,North,Home Goods,Pillows,3,31.45
+ORD2428,CUST1007,West,Electronics,Laptop,4,1233.92
+ORD2429,CUST1040,North,Electronics,Monitor,5,304.0
+ORD2430,CUST1038,East,Home Goods,Coffee Maker,2,80.99
+ORD2431,CUST1062,West,Home Goods,Coffee Maker,5,83.09
+ORD2432,CUST1086,South,Home Goods,Pillows,5,30.08
+ORD2433,CUST1055,South,Electronics,Smartphone,3,837.11
+ORD2434,CUST1021,South,Electronics,Smartphone,2,823.23
+ORD2435,CUST1013,North,Clothing,Jacket,2,91.07
+ORD2436,CUST1082,North,Books,Fiction Novel,5,15.71
+ORD2437,CUST1060,East,Clothing,T-Shirt,5,21.14
+ORD2438,CUST1068,South,Clothing,Jacket,4,86.84
+ORD2439,CUST1093,West,Clothing,Jeans,5,59.86
+ORD2440,CUST1013,North,Books,Science Journal,1,25.71
+ORD2441,CUST1041,North,Clothing,T-Shirt,2,22.35
+ORD2442,CUST1058,West,Clothing,T-Shirt,4,21.51
+ORD2443,CUST1034,West,Clothing,T-Shirt,3,22.72
+ORD2444,CUST1060,East,Books,Fiction Novel,5,15.17
+ORD2445,CUST1065,East,Home Goods,Coffee Maker,5,81.9
+ORD2446,CUST1087,East,Clothing,T-Shirt,1,20.98
+ORD2447,CUST1024,North,Electronics,Headphones,5,143.57
+ORD2448,CUST1031,South,Clothing,T-Shirt,4,21.75
+ORD2449,CUST1028,East,Home Goods,Pillows,3,31.33
+ORD2450,CUST1096,West,Books,Fiction Novel,2,15.07
+ORD2451,CUST1092,North,Books,Cookbook,1,19.16
+ORD2452,CUST1067,North,Electronics,Smartphone,4,813.39
+ORD2453,CUST1089,South,Books,Science Journal,2,23.92
+ORD2454,CUST1091,West,Books,Fiction Novel,2,14.44
+ORD2455,CUST1095,West,Books,Fiction Novel,4,15.12
+ORD2456,CUST1017,West,Books,Cookbook,2,19.09
+ORD2457,CUST1059,South,Home Goods,Coffee Maker,4,78.98
+ORD2458,CUST1030,West,Books,Fiction Novel,5,14.5
+ORD2459,CUST1021,East,Clothing,Jacket,2,93.48
+ORD2460,CUST1012,North,Clothing,Jeans,2,62.17
+ORD2461,CUST1008,South,Electronics,Laptop,4,1166.53
+ORD2462,CUST1022,East,Clothing,Jacket,1,88.38
+ORD2463,CUST1002,North,Books,Fiction Novel,5,15.34
+ORD2464,CUST1079,East,Home Goods,Pillows,4,31.4
+ORD2465,CUST1061,North,Electronics,Smartphone,3,803.38
+ORD2466,CUST1029,South,Home Goods,Desk Lamp,4,40.26
+ORD2467,CUST1008,South,Home Goods,Coffee Maker,2,82.09
+ORD2468,CUST1003,North,Clothing,T-Shirt,4,22.53
+ORD2469,CUST1098,East,Clothing,Jacket,1,89.11
+ORD2470,CUST1091,East,Books,Fiction Novel,2,15.35
+ORD2471,CUST1036,South,Electronics,Monitor,2,308.51
+ORD2472,CUST1081,South,Books,Science Journal,1,23.84
+ORD2473,CUST1075,West,Books,Fiction Novel,3,14.8
+ORD2474,CUST1083,North,Home Goods,Pillows,2,29.91
+ORD2475,CUST1020,South,Clothing,Jacket,3,89.54
+ORD2476,CUST1054,West,Books,Fiction Novel,5,15.24
+ORD2477,CUST1060,North,Books,Science Journal,5,24.17
+ORD2478,CUST1004,North,Clothing,T-Shirt,3,22.19
+ORD2479,CUST1055,West,Clothing,T-Shirt,4,22.18
+ORD2480,CUST1030,South,Clothing,Jeans,3,59.92
+ORD2481,CUST1083,South,Home Goods,Pillows,5,29.99
+ORD2482,CUST1031,West,Clothing,Jeans,3,62.89
+ORD2483,CUST1055,North,Clothing,T-Shirt,1,21.22
+ORD2484,CUST1092,East,Books,Cookbook,3,19.44
+ORD2485,CUST1033,North,Electronics,Monitor,4,293.98
+ORD2486,CUST1070,East,Clothing,Jacket,4,86.57
+ORD2487,CUST1016,North,Home Goods,Pillows,1,30.22
+ORD2488,CUST1003,North,Clothing,T-Shirt,3,23.06
+ORD2489,CUST1070,North,Electronics,Smartphone,3,826.54
+ORD2490,CUST1042,East,Electronics,Headphones,2,156.61
+ORD2491,CUST1037,West,Home Goods,Coffee Maker,1,82.74
+ORD2492,CUST1100,South,Electronics,Smartphone,2,834.99
+ORD2493,CUST1035,North,Clothing,Jeans,1,61.37
+ORD2494,CUST1046,West,Clothing,Jeans,4,57.34
+ORD2495,CUST1024,North,Clothing,T-Shirt,4,22.55
+ORD2496,CUST1030,South,Electronics,Smartphone,4,782.62
+ORD2497,CUST1014,West,Home Goods,Pillows,2,29.33
+ORD2498,CUST1089,North,Clothing,Jeans,4,59.57
+ORD2499,CUST1084,South,Electronics,Laptop,2,1242.37
+ORD2500,CUST1050,North,Home Goods,Coffee Maker,3,78.77
